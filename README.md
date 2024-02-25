@@ -1,4 +1,4 @@
-##FITCHECK
+## FITCHECK
 
 ## Inspiration
 As we navigate the complex social and educational commitments we have as students, worrying about clothes adds another layer of stress to our lives. Planning out what to wear in advance can get inconvenient, and it gets difficult to keep track of what clothes you have available, taking precious time away from things like sleeping and eating breakfast in the morning. As such, a simple button that would not only help us save time but allow us to feel confident in ourselves during the whole process seemed like something that could seamlessly integrate into not only our lives but the lives of countless others. Whether it be other students, adults, or even kids trying to find their styles, we believe that FitCheck can assist anyone in meeting their fashion needs. 
